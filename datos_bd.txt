@@ -1,0 +1,8 @@
+DATOS BASE DE DATOS
+Usuario: tpo2integrador
+Constraseña: tpo2integrador
+Base de Datos: peluqueria_canina
+URL: jdbc:mysql://localhost:3306/peluqueria_canina?serverTimezone=UTC [tpo2integrador on Default schema]
+
+
+
